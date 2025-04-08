@@ -1,0 +1,16 @@
+.flex-container{
+    width: 1600px;
+    background-color: lightgreen;
+}
+
+.flex-item{
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    background-color: beige;
+}
+
+p{
+    line-height: 25px;
+    font-size: 17px;
+}
